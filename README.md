@@ -6,6 +6,8 @@
 Odoo
 ----
 
+基于仓库 https://github.com/5S789/odoo/tree/v14.0-zixun 构建, 清除了提交历史以适应Gitee导入是的大小限制.
+
 Odoo is a suite of web based open source business apps.
 
 The main Odoo Apps include an <a href="https://www.odoo.com/page/crm">Open Source CRM</a>,
